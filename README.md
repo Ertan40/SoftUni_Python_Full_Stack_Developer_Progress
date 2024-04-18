@@ -4,23 +4,23 @@
 
 | Course                            |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
 |:----------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
-| **Programming Basics**            |    July - August 2022     | **5.00** |      3       |      [certificate basics]      |                 |
+| **Programming Basics**            |   July - August 2022      | **5.00** |      3       |      [certificate basics]      |                 |
 | **Programming Fundamentals**      | September - December 2022 | **5.71** |      12      |   [certificate fundamentals]   | [fundamentals]  |
 | - mid exam                        |                           |   6.00   |              |                                |                 |
 | - final exam                      |                           |    -     |              |                                |                 |
 | **Python Advanced**               |   January - April 2023    | **6.00** |      27      |                                |                 |
 | - python Advanced                 |                           |   6.00   |              |     [certificate advanced]     |   [advanced]    |
 | - python OOP                      |                           |   6.00   |              |       [certificate OOP]        |      [OOP]      |
-| **JS Front-End**                  |   January - April 2023    | **6.00** |      27      |                                |                 |
-| - HTML & CSS                      |                           |   6.00   |              |    [certificate HTML & CSS]    |  [HTML & CSS]   |
-| - JS front-end                    |                           |   6.00   |              |   [certificate JS FRONT-END]   |  [JS Font-End]  |
 | **Python Web**                    |     May - August 2023     |    -     |      30      |                                |                 |
 | - python web basics               |                           |   5.24   |              | [certificate Python Web Basic] |   [web basic]   |
 | - python web framework            |                           |   6.00   |              |  [certificate Web Framework]   | [final project] |
-| **DevOps for Developers**         |   January - April 2024    | **6.00** |    0(24)     |                                |                 |
+| **JS Front-End**                  | September - December 2023 | **6.00** |      27      |                                |                 |
+| - HTML & CSS                      |                           |   6.00   |              |    [certificate HTML & CSS]    |  [HTML & CSS]   |
+| - JS front-end                    |                           |   6.00   |              |   [certificate JS FRONT-END]   |  [JS Font-End]  |
+| **DevOps for Developers**         |   January - April 2024    | **6.00** |    12(24)    |                                |                 |
 | - Containers and Cloud            |     18.02.2024(9:00)      |   6.00   |              |    [certificate Containers]    |  [containers]   |
 | - Software Engineering and DevOps |     ---                   |   ---    |              |                                |                 |
-| **Diploma**                       |   March 2024              | **---**  |    0(24)     |      [diploma]                 |                 |
+| **Diploma**                       |   March 2024              | **---**  |              |      [diploma]                 |                 |
 | **TOTAL**                         |                           | **5.85** |   **114**    |                                |                 |
 
 
