@@ -4,7 +4,7 @@
 
 | Course                            |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
 |:----------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
-| **Programming Basics**            |    July - August 2022     | **5.00** |      3       |      [certificate basic]       |                 |
+| **Programming Basics**            |    July - August 2022     | **5.00** |      3       |      [certificate basics]      |                 |
 | **Programming Fundamentals**      | September - December 2022 | **5.71** |      12      |   [certificate fundamentals]   | [fundamentals]  |
 | - mid exam                        |                           |   6.00   |              |                                |                 |
 | - final exam                      |                           |    -     |              |                                |                 |
@@ -40,9 +40,9 @@
 
 [containers]: https://github.com/Ertan40/Containers_and_Cloud_SoftUni
 
-[certificate basic]:https://softuni.bg/certificates/details/137910/5fc7b793
+[certificate basics]:https://softuni.bg/certificates/details/137910/5fc7b793
 
-[certificate fundamentals]: https://softuni.bg/certificates/details/148794/32086962
+[certificate fundamentals]: https://softuni.bg/certificates/details/148958/cbf22ce9
 
 [certificate advanced]: https://softuni.bg/certificates/details/169525/740b66ae
 
